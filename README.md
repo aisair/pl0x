@@ -1,4 +1,5 @@
 pl0x -- An osu!mania arrow skin.
+Thread Link: https://osu.ppy.sh/forum/p/6142161
 
 The Skin Includes:
 	- Arrow Assets (4k/5k) including a "Sharp Arrow" variant
@@ -10,12 +11,12 @@ To develop with this, pull it and create a symlink of "pl0x" to osu!'s skin dire
 
 --------------------------------------------------------------
 
-"Legacy" contains downloads before this repository's inital creation.
-"pl0x-source" contains source files of the skin assets.
-"pl0x" is the skin.
-"Staging" folder is what will end up in the final download zip file of the latest version.
-"Forum" contains all information and image assets relating to the respective forum post.
-"ExportPipeline" contains files and scripts to antialias and compress exports from Adobe Illustrator
+"Legacy" contains downloads before this repository's inital creation.  
+"pl0x-source" contains source files of the skin assets.  
+"pl0x" is the skin.  
+"Staging" folder is what will end up in the final download zip file of the latest version.  
+"Forum" contains all information and image assets relating to the respective forum post.  
+"ExportPipeline" contains files and scripts to antialias and compress exports from Adobe Illustrator  
 
 --------------------------------------------------------------
 
@@ -31,8 +32,8 @@ How to manage export workflow with Adobe Illustator files:
 	
 I am not an author or creator of:
 
-OptiPNG (http://optipng.sourceforge.net/)
-ImageMagick (https://www.imagemagick.org)
-NodeJS (https://nodejs.org/)
+OptiPNG (http://optipng.sourceforge.net/)  
+ImageMagick (https://www.imagemagick.org)  
+NodeJS (https://nodejs.org/)  
 
 --------------------------------------------------------------

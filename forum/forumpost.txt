@@ -16,6 +16,8 @@ Standard
 
 [centre][size=150][url=http://puu.sh/zEUDo/87525cf635.zip][color=#FF0000][b][u]Download Here[/u][/b][/color][/url][/size]
 
+[size=100][url=https://github.com/Prankster855/pl0x][color=#FF0000][b][u]Github Link[/u][/b][/color][/url][/size]
+
 [size=85][color=#0040FF][b]Instructions can be found in the zip file[/b][/color][/centre][/size]
 
 [b][u]Please let me know of there are any issues.[/u][/b]
@@ -27,5 +29,3 @@ Hit 800 downloads [color=#ff0000]<3[/color]
 New sharp arrow skin mod!
 
 Added 5k mid sprite, new UI (WIP), improved STD assets. Read README.md for other information.
-
-Recently came to my attention i didnt update download link for the second button woops
