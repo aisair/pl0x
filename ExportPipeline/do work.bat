@@ -9,9 +9,9 @@ FOR /r "%sourcedir%" %%a IN (*.png) DO (
 )
 color a9
 cls
-echo Conversion and Compression complete!
-echo Conversion and Compression complete!
-echo Conversion and Compression complete!
-echo Conversion and Compression complete!
+echo Downscale and Compression complete!
+echo Downscale and Compression complete!
+echo Downscale and Compression complete!
+echo Downscale and Compression complete!
 pause
 exit
