@@ -13,7 +13,7 @@ fs.readdir(testFolder, (err, files) => {
 		var ext = path.parse(files[i]).ext;
 		if (noext.slice(-4) == "_16x") {
 
-			var cmd = pathname +'/imagemagick/magick convert ' + pathname + testFolder.slice(1) + files[i] + "-colorspace CIELab -filter Lanczos -resize 6.25% -colorspace sRGB" + pathname + finishedFolder.slice(1) + noext.slice(0, -4) + ext;
+			var cmd = pathname +'/imagemagick/magick.exe convert ' + pathname + testFolder.slice(1) + files[i] + " -colorspace CIELab -filter Lanczos -resize 6.25% -colorspace sRGB " + pathname + finishedFolder.slice(1) + noext.slice(0, -4) + ext;
 			console.log(cmd);
 			console.log("");
 			
