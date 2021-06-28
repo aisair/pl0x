@@ -1,3 +1,5 @@
+# LATEST (WIP): https://github.com/prank855/2021x
+# THIS REPO IS DEAD/ABANDONED, STILL HAS GOOD FILES/ETC
 pl0x -- An osu!mania arrow skin.
 Thread Link: https://osu.ppy.sh/community/forums/topics/619322
 
